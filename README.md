@@ -1,2 +1,0 @@
-# takeonedown.github.io
-thing
