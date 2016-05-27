@@ -1,0 +1,31 @@
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: gray;
+}
+
+nav ul li {
+  display: inline;
+  float: left;
+  border-right: 1px solid black;
+}
+
+nav ul a {
+  display: block;
+  padding: 10px 15px;
+  color: white;
+  text-decoration: none;
+}
+
+nav ul a:hover {
+  background-color: lightblue;
+  color: black;
+}
+
+nav ul li:last-child {
+  border-right: none;
+}
+
+
