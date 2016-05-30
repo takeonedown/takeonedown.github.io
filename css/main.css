@@ -1,3 +1,10 @@
+img {
+  position: relative;
+  margin-left: 1%;
+  top: 500x;
+  z-index: -1;
+}
+
 nav ul {
   list-style-type: none;
   margin: 0;
@@ -29,9 +36,9 @@ nav ul li:last-child {
   border-right: none;
 }
 
-body{
-	background-color: lightblue;
-	margin-left: 5%;
-	margin-right: 5%;
+body {
+  background-color: lightblue;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
